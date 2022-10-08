@@ -1,0 +1,137 @@
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+.new2{
+    border: 1px solid #db7093;
+    width: 800px;
+    margin-left: 150px;
+  }
+  .btn_insert{
+    color:#fff;
+    background-color:#2196f3; 
+    border: 5px solid #2196f3;
+    margin-left: 30px;
+    margin-top: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+  }
+.btn_plusF{
+    color: #fff;
+    background-color: #32c5d2;
+    font-weight: bold;
+    font-size: large;
+    border: none;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 780px;
+    height: 40px;
+    width: 40px;
+  }
+  #btn{
+    color: #fff;
+    background-color: #337ab7;
+    border: 1px solid #337ab7;
+    height: 40px;
+    width: 80px;
+  }
+  #btn_e1,#btn_e2,#btn_e3{
+    color: #337ab7;
+    border: none;
+    height: 40px;
+    width: 80px;
+  }
+  #btn_e1:hover{
+    background-color: #87969b;
+  }
+  #btn_e2:hover{
+    background-color: #87969b;
+  }
+  #btn_e3:hover{
+    background-color: #87969b;
+  }
+a .link{
+    color: #fff;
+    background-color: #32c5d2;
+    font-weight: bold;
+    font-size: large;
+    margin-left: 770px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    height: 70px;
+    width: 35px;
+  }
+  select{
+    margin-top: 15px;
+    background-color: #343a40;
+    border: 1px solid #343a40;
+    color: #fff;
+  }
+  .list{
+    margin-top: 15px;
+  }
+  li{
+    list-style-type: none;
+    float: left;
+    margin-left: 5px;
+  }
+  button{
+    border: none;
+    border-radius: 5px;
+  }
+.One{
+  border: 1px solid #ff9100;
+  width: calc(90% /4);
+  height: 210px;
+}  
+.p1{
+  background-color: #ff9100;
+  height: 100px;
+}
+.Two{
+  border: 1px solid #008cff;
+  width: calc(90% /4);
+    height: 220px;
+}
+.p2{
+  background-color: #008cff;
+  height: 120px;
+}
+.Tree{
+  border: 1px solid #eeff00;
+  width: calc(90% /4);
+    height: 200px;
+}
+.p3{
+  background-color: #eeff00;
+  height: 95px;
+}
+.Four{
+  border: 1px solid #d900ff;
+  width: calc(90% /4);
+  height: 200px;
+}
+.p4{
+  background-color: #d900ff;
+  height: 95px;
+}
+h5{
+  color: #fff;
+  margin-left: 5px;
+}
